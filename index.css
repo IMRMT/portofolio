@@ -21,10 +21,14 @@ body{
 .header.container.nav.ul img{
 	padding: 10px 0;
 	margin-top: 30px;
+	color: #ff004f;
+	width: 10px;
 }
 .header.container.nav img{
 	padding: 10px 0;
 	margin-top: 30px;
+	color: #ff004f;
+	width: 10px;
 }
 .container{
 	padding: 10px 10%;
