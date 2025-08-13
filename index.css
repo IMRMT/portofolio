@@ -226,13 +226,12 @@ nav ul li a:hover::after {
 	transition: transform 0.5s;
 }
 
-.work .vertical {
-	width: 50%;
-	border-radius: 10px;
-	display: block;
-	max-width: 100%;
-	height: auto;
-	display: block;
+.work img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    transition: transform 0.5s;
 }
 
 .layer {
