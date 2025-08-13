@@ -193,6 +193,9 @@ nav ul li a:hover::after{
 	width: 50%;
 	border-radius: 10px;
 	display: block;
+    max-width: 100%; /* Prevent overflow */
+    height: auto;    /* Keep aspect ratio */
+    display: block;  /* Removes inline extra space */
 }
 .layer{
 	width: 100%;
