@@ -296,6 +296,10 @@ nav ul li a:hover::after {
 }
 
 /*--------contact--------*/
+#contact {
+    flex: 1; /* pushes footer to bottom */
+}
+
 .contact-left {
 	flex-basis: 35%;
 }
@@ -367,7 +371,7 @@ form .btn2 {
 	padding: 25px 0;
 	background: #262626;
 	font-weight: 300;
-	margin-top: 20px;
+	margin-top: 0;
 }
 
 /*--------css for small screen--------*/
